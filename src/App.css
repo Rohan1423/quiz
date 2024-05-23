@@ -1,0 +1,19 @@
+
+.buttonSizing {
+    --bs-btn-padding-y: .25rem;
+    --bs-btn-padding-x: .5rem;
+    --bs-btn-font-size: 0.95rem;
+}
+
+.main-app {
+    width: 90%;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bold-weight {
+    font-weight: 600;
+}
