@@ -9,7 +9,8 @@ The Challenge:
 - Tally correct answers after 'Submit' is clicked
 - Style answers based on whether it was correct/incorrect
 
-https://kalra-v.github.io/quizzical/
+https://Rohan1423.github.io/quiz
+
 
 ## Tech Used
 
