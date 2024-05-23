@@ -9,7 +9,7 @@ The Challenge:
 - Tally correct answers after 'Submit' is clicked
 - Style answers based on whether it was correct/incorrect
 
-https://Rohan1423.github.io/quiz
+https://rohan1423.github.io/quiz/
 
 
 ## Tech Used
